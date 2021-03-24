@@ -1,0 +1,20 @@
+
+.BackButtonPage__back-button {
+    margin: 0px;
+  }
+  .BackButtonPage__back-button:hover {
+    background-color: red;
+    color:white;
+  }
+  
+  .BackButtonPage__month-name {
+    color: #e42e2e;
+    font-family:sans-serif;
+    font-size: 60px;
+    height: 70vh;
+    margin: 0 0 0 auto;
+    text-orientation: upright;
+    width: 75px;
+    writing-mode: vertical-lr;
+  }
+  

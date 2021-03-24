@@ -1,0 +1,27 @@
+
+  
+  .App__nav {
+    background-color:#AA182C;
+    color: rgb(26, 21, 21);
+    height: auto;
+
+  }
+  
+  .App__header {
+    background-color:#AA182C;
+    color:black;
+    font-family: sans-serif;
+    padding-left: 16px;
+    padding-top: 10px;
+
+  }
+  
+  .App__header a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .App__main {
+    background-color: #F0F2F5;
+  }
+  

@@ -1,0 +1,35 @@
+.Action {
+    height:200px;
+    background-color:white;
+    color: black;
+    height:200px;
+    margin-bottom: 8px;
+    max-width: 380px;
+    padding: 8px 0 8px 8px;
+    position: relative;
+  }
+  
+  .Action__mealName {
+    font-family: sans-serif;
+    color:black;
+    font-size: 20px;
+    margin: 0;
+    max-width: 80%;
+    min-height: 24px;
+    text-align: center;
+  }
+  .Action__month a {
+    color:black;
+    display: block;
+    text-decoration: none;
+  }
+  .Action__month a:hover {
+    color: green;
+  }
+  
+  .Action__dates {
+    bottom: 8px;
+    color: #0c0b0b;
+    font-size: 14px;
+    position: absolute;
+  }

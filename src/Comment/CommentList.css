@@ -1,0 +1,33 @@
+.CommentList ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+
+  }
+  .CommentList li {
+    color:black;
+    margin: 0;
+    padding: 10px;
+
+  }
+  /* .CommentList{
+      border-radius:30px;
+  } */
+
+  .ComentList__button-container{
+    margin-left: 10px;
+  }
+  
+  .CommentList__add-comment-button {
+    /* margin: 2px 10px; */
+    margin: 2px 0 0 0px;
+    background-color:#AA182C;
+    color: white;
+    height:auto;
+    width:400px;
+    padding-bottom: 20px;
+  }
+  .CommentList__add-comment-button:hover {
+    background-color: #29862e;
+    color: white;
+  }

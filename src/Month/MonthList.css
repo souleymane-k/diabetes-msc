@@ -1,0 +1,54 @@
+.MonthList__list {
+    list-style-type: none;
+    margin: 10px 0 0;
+    padding: 0;
+  }
+  
+  .MonthList__button-wrapper {
+    margin: 0 0 0 auto;
+    /* max-width: 200px; */
+    height:auto;
+   
+  }
+  
+  .MonthList__add-month-button {
+    margin: 10px 0 0 15px;
+    background-color:#AA182C;
+    color: white;
+    height:auto;
+    width:400px;
+    padding-bottom: 20px;
+    
+  }
+  .MonthList__add-month-button:hover {
+    background-color: #29862e;
+    color: white;
+  }
+  
+  .MonthList__month-link {
+    background-color: white;
+    color: black;
+    display: block;
+    border-radius:20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 4px 2px 4px 10px;
+    max-width: 400px;
+    width:auto;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  .MonthList__month-link:hover {
+    color: black;
+    cursor: pointer;
+  }
+  /* .MonthList__month-link.active {
+    background-color: #102541;
+  } */
+  
+  .MonthList__num-comments {
+    color:black;
+    display: block;
+    float: right;
+    font-size: 10px;
+  }
